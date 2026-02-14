@@ -151,11 +151,6 @@ Response (200):
 
 ## 🧪 Testing
 
-### Run automated tests
-```bash
-.\test.ps1
-```
-
 ### Manual testing
 ```bash
 # Upload a file
@@ -282,15 +277,6 @@ Logs include:
 - Upload events (new files, deduplication)
 - Cleanup events (expired files deleted)
 - Error logging
-
-## 📚 Documentation
-
-- `README.md` - This file
-- `SETUP_GUIDE.md` - Detailed setup instructions
-- `IMPLEMENTATION.md` - Technical implementation details
-- `PROJECT_OVERVIEW.md` - Complete project overview
-- `WEB_INTERFACE.md` - Web interface documentation
-- `QUICK_TEST.md` - Quick testing guide
 
 ## 🤝 Contributing
 
